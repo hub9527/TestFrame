@@ -12,6 +12,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d("main","tet000");
         Log.d("main","tesyudd");
+        Log.d("main","tesyudd");
+        Log.d("main","tesyudd");
 
     }
 }
