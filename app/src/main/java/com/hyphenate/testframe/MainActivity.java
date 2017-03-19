@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("main","tet000");
         Log.d("main","tesyudd");
         Log.d("main","tesyudd");
-        Log.d("main","tesyudd");
+        Log.d("main","tdd");
 
     }
 }
