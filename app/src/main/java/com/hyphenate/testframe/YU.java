@@ -5,4 +5,5 @@ package com.hyphenate.testframe;
  */
 
 public class YU {
+   int anInt = 0;
 }
